@@ -18,7 +18,7 @@
 
 ### 🔭 I’m currently working on:
 - ![EzLab](https://github.com/mdphuc/ezlab)
-- <a href="https://phucmai.pythonanywhere.com" target="_blank"></a>
+- <a href="https://phucmai.pythonanywhere.com" target="_blank">My Blog</a>
 
 
 
