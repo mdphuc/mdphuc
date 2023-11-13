@@ -2,24 +2,14 @@
 
 <br>
 <img align="left" width=45% src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdphuc&layout=donut">
-<img align="left" width=47% src="https://github.com/mdphuc/mdphuc/assets/41264640/2eab93c9-d630-4fe9-9eb7-dbc700d56772">
-<img align="left" src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens">
-<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-<img align="left" src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white">
-<img align="left" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-<img align="left" src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white">
-<img align="left" src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white">
-<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
-<img align="left" src="https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white">
-<img align="left" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
-<img align="left" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+<img width=47% src="https://github.com/mdphuc/mdphuc/assets/41264640/2eab93c9-d630-4fe9-9eb7-dbc700d56772">
 <br>
 <br>
 
 ### 🔭 I’m currently working on:
 - ![EzLab](https://github.com/mdphuc/ezlab)
 - <a href="https://phucmai.pythonanywhere.com" target="_blank">My Blog</a>
-- ![remotenv](https://github.com/mdphuc/remotenv)
+- ![beaver](https://github.com/mdphuc/beaver)
 
 
 
