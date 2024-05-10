@@ -8,7 +8,7 @@
 
 ### 📫 How to reach me:
 
-<a href="mailto:0xmdphuc@gmail.com" target="_blank"><img align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="mailto:maipd@mail.uc.edu" target="_blank"><img align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/phuc-mai-92a895272/" target="_blank"><img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://github.com/mdphuc" target="_blank"><img align="left" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
 
