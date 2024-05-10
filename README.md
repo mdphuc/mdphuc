@@ -2,17 +2,8 @@
 
 <br>
 <img align="left" width=45% src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdphuc&layout=donut">
-<img width=47% src="https://github.com/mdphuc/mdphuc/assets/41264640/2eab93c9-d630-4fe9-9eb7-dbc700d56772">
 <br>
 <br>
-
-### 🔭 I’m currently working on:
-- ![EzLab](https://github.com/mdphuc/ezlab)
-- <a href="https://phucmai.pythonanywhere.com" target="_blank">My Blog</a>
-- ![remotenv](https://github.com/mdphuc/remotenv)
-- ![beaver](https://github.com/mdphuc/beaver)
-- ![myfile](https://github.com/mdphuc/myfile)
-
 
 
 ### 📫 How to reach me:
