@@ -1,10 +1,5 @@
 ### Hi there, I'm Phuc 👋
 
-<br>
-<img align="left" width=45% src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdphuc&layout=donut">
-<br>
-<br>
-
 
 ### 📫 How to reach me:
 
